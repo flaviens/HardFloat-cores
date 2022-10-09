@@ -1,7 +1,7 @@
 CAPI=2:
 
 name: ::hardfloat_8086_sse:0-r1
-description: Non-blocking cache
+description: HardFloat specialized for 8086-SSE
 
 filesets:
   source:

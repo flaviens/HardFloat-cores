@@ -1,7 +1,7 @@
 CAPI=2:
 
 name: ::hardfloat_riscv:0-r1
-description: Non-blocking cache
+description: HardFloat specialized for RISCV
 
 filesets:
   source:

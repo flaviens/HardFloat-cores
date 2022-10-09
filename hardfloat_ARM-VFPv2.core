@@ -1,7 +1,7 @@
 CAPI=2:
 
 name: ::hardfloat_arm_vfpv2:0-r1
-description: Non-blocking cache
+description: HardFloat specialized for ARM-VPFv2
 
 filesets:
   source:
